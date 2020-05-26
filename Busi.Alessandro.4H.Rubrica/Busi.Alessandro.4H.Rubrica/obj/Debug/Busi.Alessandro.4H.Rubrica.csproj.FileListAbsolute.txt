@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\Busi.Alessandro.4H.Rubrica\Busi.Alessandro.4H.Rubrica\obj\Debug\Busi.Alessandro.4H.Rubrica.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Busi.Alessandro.4H.Rubrica\Busi.Alessandro.4H.Rubrica\obj\Debug\FinestraContatto.g.cs
+C:\Users\Administrator\source\repos\Busi.Alessandro.4H.Rubrica\Busi.Alessandro.4H.Rubrica\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\source\repos\Busi.Alessandro.4H.Rubrica\Busi.Alessandro.4H.Rubrica\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\Busi.Alessandro.4H.Rubrica\Busi.Alessandro.4H.Rubrica\obj\Debug\Busi.Alessandro.4H.Rubrica_MarkupCompile.cache
+C:\Users\Administrator\source\repos\Busi.Alessandro.4H.Rubrica\Busi.Alessandro.4H.Rubrica\obj\Debug\Busi.Alessandro.4H.Rubrica_MarkupCompile.lref
+C:\Users\Administrator\source\repos\Busi.Alessandro.4H.Rubrica\Busi.Alessandro.4H.Rubrica\bin\Debug\Busi.Alessandro.4H.Rubrica.exe.config
+C:\Users\Administrator\source\repos\Busi.Alessandro.4H.Rubrica\Busi.Alessandro.4H.Rubrica\bin\Debug\Busi.Alessandro.4H.Rubrica.exe
+C:\Users\Administrator\source\repos\Busi.Alessandro.4H.Rubrica\Busi.Alessandro.4H.Rubrica\bin\Debug\Busi.Alessandro.4H.Rubrica.pdb
+C:\Users\Administrator\source\repos\Busi.Alessandro.4H.Rubrica\Busi.Alessandro.4H.Rubrica\obj\Debug\FinestraContatto.baml
+C:\Users\Administrator\source\repos\Busi.Alessandro.4H.Rubrica\Busi.Alessandro.4H.Rubrica\obj\Debug\MainWindow.baml
+C:\Users\Administrator\source\repos\Busi.Alessandro.4H.Rubrica\Busi.Alessandro.4H.Rubrica\obj\Debug\Busi.Alessandro.4H.Rubrica.g.resources
+C:\Users\Administrator\source\repos\Busi.Alessandro.4H.Rubrica\Busi.Alessandro.4H.Rubrica\obj\Debug\Busi.Alessandro._4H.Rubrica.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Busi.Alessandro.4H.Rubrica\Busi.Alessandro.4H.Rubrica\obj\Debug\Busi.Alessandro.4H.Rubrica.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Busi.Alessandro.4H.Rubrica\Busi.Alessandro.4H.Rubrica\obj\Debug\Busi.Alessandro.4H.Rubrica.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Busi.Alessandro.4H.Rubrica\Busi.Alessandro.4H.Rubrica\obj\Debug\Busi.Alessandro.4H.Rubrica.exe
+C:\Users\Administrator\source\repos\Busi.Alessandro.4H.Rubrica\Busi.Alessandro.4H.Rubrica\obj\Debug\Busi.Alessandro.4H.Rubrica.pdb

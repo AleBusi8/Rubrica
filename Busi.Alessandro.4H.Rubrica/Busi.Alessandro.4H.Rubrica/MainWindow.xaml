@@ -1,0 +1,53 @@
+﻿<Window x:Class="Busi.Alessandro._4H.Rubrica.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Busi.Alessandro._4H.Rubrica"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="5*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal">
+           
+            
+            <TextBlock VerticalAlignment="Center" Margin="29,0,40,0" FontSize="18" FontWeight="ExtraBold">CONTATTI</TextBlock>
+            <Button Content="Aggiungi Contatto" Width="148" Height="60" Margin="50,5,60,5" BorderBrush="Black" BorderThickness="5" Click="Btn_Click_add"/>
+        </StackPanel>
+
+        <DataGrid Grid.Row="1" BorderThickness="5" x:Name="dgDati" AutoGenerateColumns="False" IsReadOnly="True" >
+            <DataGrid.Columns >
+                <DataGridTextColumn Width="1.5*" Binding="{Binding Nome}" FontSize="15" Header="Nome"></DataGridTextColumn>
+                <DataGridTextColumn Width="1.5*" Binding="{Binding Cognome}" FontSize="15" Header="Cognome"></DataGridTextColumn>
+                <DataGridTextColumn Width="2*" Binding="{Binding NTelefono}" FontSize="15" Header="Numero di Telefono"></DataGridTextColumn>
+            </DataGrid.Columns>
+            <DataGrid.RowDetailsTemplate>
+                <DataTemplate>
+                    <DockPanel>
+                        <Grid Margin="0,10">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                            </Grid.RowDefinitions>
+
+                            <TextBlock Text="Citta: " FontWeight="Bold" />
+                            <TextBlock Text="{Binding Citta}" Grid.Column="1" />
+                            <TextBlock Text="Cap: " FontWeight="Bold" Grid.Row="1" />
+                            <TextBlock Text="{Binding Cap}" Grid.Column="1" Grid.Row="1" />
+                            <TextBlock Text="Età: " FontWeight="Bold" Grid.Row="2" />
+                            <TextBlock Text="{Binding Eta}" Grid.Column="1" Grid.Row="2" />
+                        </Grid>
+                    </DockPanel>
+                </DataTemplate>
+            </DataGrid.RowDetailsTemplate>
+        </DataGrid>
+    </Grid>
+</Window>

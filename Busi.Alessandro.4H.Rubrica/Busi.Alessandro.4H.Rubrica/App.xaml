@@ -1,0 +1,9 @@
+﻿<Application x:Class="Busi.Alessandro._4H.Rubrica.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Busi.Alessandro._4H.Rubrica"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
